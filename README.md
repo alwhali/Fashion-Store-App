@@ -384,15 +384,17 @@ dart format lib/ test/
 <img src="assets/screen_shots/Splash.png" width ="300" height ="600" alt="Home screen">
 
 ### Home Screen
-![Login Screen](assets/screen_shots/Home.png , width =300)
+<img src="assets/screen_shots/Home.png" width ="300" height ="600" alt="Home screen">
 
 ### Categories Screen
-![Categories Screen](assets/screen_shots/Categories.png)
+<img src="assets/screen_shots/Categories.png" width ="300" height ="600" alt="Home screen">
+
 
 ### Details Screen
-![Details Screen](assets/screen_shots/Details1.png)
-![Details Screen](assets/screen_shots/Details2.png)
-![Details Screen](assets/screen_shots/Details3.png)
+<img src="assets/screen_shots/Details1.png" width ="300" height ="600" alt="Home screen">
+<img src="assets/screen_shots/Details2.png" width ="300" height ="600" alt="Home screen">
+<img src="assets/screen_shots/Details3.png" width ="300" height ="600" alt="Home screen">
+
 
 
 **Suggested Screenshots:**
