@@ -380,8 +380,8 @@ dart format lib/ test/
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](assets/screen_shots/Splash.png)
+### Splash Screen
+<img src="assets/screen_shots/Splash.png" width ="300" height ="600" alt="Home screen">
 
 ### Home Screen
 ![Login Screen](assets/screen_shots/Home.png , width =300)
