@@ -380,7 +380,20 @@ dart format lib/ test/
 
 ## Screenshots
 
-Screenshots are not included in this repository.
+### Home Screen
+![Home Screen](assets/screen_shots/Splash.png)
+
+### Login Screen
+![Login Screen](assets/screen_shots/Home.png)
+
+### Categories Screen
+![Categories Screen](assets/screen_shots/Categories.png)
+
+### Details Screen
+![Details Screen](assets/screen_shots/Details1.png)
+![Details Screen](assets/screen_shots/Details2.png)
+![Details Screen](assets/screen_shots/Details3.png)
+
 
 **Suggested Screenshots:**
 - Splash screen with animated logo

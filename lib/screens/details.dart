@@ -27,7 +27,7 @@ class _DetailsState extends State<Details> {
   Future<dynamic> showBottomSheet() {
     return showModalBottomSheet(
       useSafeArea: true,
-      // isScrollControlled: true,
+      isScrollControlled: true,
       // enableDrag: true,
       backgroundColor: Color(0xffECECEC),
       barrierColor: Colors.transparent,
