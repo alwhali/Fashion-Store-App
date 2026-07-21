@@ -383,8 +383,8 @@ dart format lib/ test/
 ### Home Screen
 ![Home Screen](assets/screen_shots/Splash.png)
 
-### Login Screen
-![Login Screen](assets/screen_shots/Home.png)
+### Home Screen
+![Login Screen](assets/screen_shots/Home.png , width =300)
 
 ### Categories Screen
 ![Categories Screen](assets/screen_shots/Categories.png)
